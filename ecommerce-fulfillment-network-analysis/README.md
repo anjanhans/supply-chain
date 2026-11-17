@@ -29,5 +29,43 @@ We used SQL for analysis and Tableau for dashboards.
 * Compares inventory losses and DPMO across facilities.
 * Examines defect distribution by defect type.
 
+## Key Insights & Findings
+
+### Fulfilment Performance
+
+* The overall CPT breach rate was 12.26%.
+* Evening shift recorded the highest CPT breach rate at 19.54%, compared with 6.49% during the morning shift.
+* Evening shift also had the highest average processing time at ~ 38 minutes.
+* Siliguri recorded the highest facility-level CPT breach rate at 24.79%, followed by Guwahati at 22.10%.
+* Monthly CPT breach rates remained relatively stable, ranging from 12.10% to 12.48%.
+
+### Facility and Labor Performance
+
+* Siliguri recorded the highest average labor cost per order at 102.18.
+* It also had the lowest orders per labor hour at 2.15
+* Hyderabad has the highest efficiency at 2.95 orders per labor hour and the lowest average labor cost per order at 58.25.
+
+### Inventory Loss and Quality
+
+* A total of 21,581 inventory units were lost during the analysis period.
+* Monthly inventory loss increased from 2534 units in January to 4,987 units in June.
+* Mumbai recorded the highest inventory loss at 3,343 units, while Bhubaneswar recorded the lowest at 844 units.
+* Damaged item was the most frequent defect category with 489 recorded defects followed by Missing Item(484) and Label Error(483).
+* Siliguri and Guwahati recorded the highest facility-level DPMO values.
+
+## Recommendations
+
+***1. Investigate evening shift performance:*** Review workload distribution, staffing, order mix and shift handovers particularly at Siliguri and Guwahati.
+
+***2. Review facility-level labor efficiency:*** Investigate the combination of high labor cost and low productivity at Siliguri. Compare its operating conditions with higher-productivity facilities.
+
+***3. Address the increase in inventory losses:*** Investigate the rising losses from January to June, with particular attention to the higher figures in May and June.
+
+***4. Strengthen defect prevention:*** Examine processes associated with damaged items, missing items and label errors. Review packaging, picking and order-verification controls.
+
+***5. Monitor operational performance:*** Track CPT breach rates, labor productivity, inventory losses and defect rates together to identify areas requiring attention 
+  
+
+
 
 
