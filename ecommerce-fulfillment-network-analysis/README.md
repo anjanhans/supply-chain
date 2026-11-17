@@ -12,6 +12,9 @@ We used SQL for analysis and Tableau for dashboards.
 
 ### 1. E-commerce Fulfillment Network Performance
 
+<img width="1266" height="794" alt="Screenshot 2026-11-17 at 10 25 59 PM" src="https://github.com/user-attachments/assets/b7a7043a-d1cc-47a2-b6ec-431d9229c983" />
+
+
 * Monitors fulfilment performance and CPT breaches.
 * Compares breach rates across facilities and shifts.
 * Tracks monthly CPT break trends.
@@ -19,11 +22,17 @@ We used SQL for analysis and Tableau for dashboards.
 
 ### 2. Facility and Shift Performance
 
+<img width="1268" height="804" alt="Screenshot 2026-11-17 at 10 26 20 PM" src="https://github.com/user-attachments/assets/74fbd6e9-cb28-42d5-aa6d-aad3fc0c2b48" />
+
+
 * Compares facility and shift-level operational performance.
 * Identifies shifts with higher processing times and CPT breaches.
 * Examines labor cost and orders processed per labor hour.
 
 ### 3. Inventory Loss and Defect Monitoring
+
+<img width="1247" height="791" alt="Screenshot 2026-11-17 at 10 26 09 PM" src="https://github.com/user-attachments/assets/b4f41395-87f6-48b9-bcb9-296ed19f21da" />
+
 
 * Tracks inventory units lost over time.
 * Compares inventory losses and DPMO across facilities.
