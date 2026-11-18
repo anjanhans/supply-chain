@@ -64,15 +64,25 @@ We used SQL for analysis and Tableau for dashboards.
 
 ## Recommendations
 
-***1. Investigate evening shift performance:*** Review workload distribution, staffing, order mix and shift handovers particularly at Siliguri and Guwahati.
+***1. Prioritize evening shift performance at Siliguri and Guwahati:*** The Evening shift has the highest CPT breach rate ~ 19.54% and average processing time 38.20 minuted.Siliguri and Guwahati show has high Evening shift breach rate of 36.26% and 33.02%.
 
-***2. Review facility-level labor efficiency:*** Investigate the combination of high labor cost and low productivity at Siliguri. Compare its operating conditions with higher-productivity facilities.
+It would be worth looking more closely at these two facilities to understand what is contributing to the delays.
 
-***3. Address the increase in inventory losses:*** Investigate the rising losses from January to June, with particular attention to the higher figures in May and June.
+***2. Review Labor Efficiency at Siliguri:*** Siliguri has the highest average labor cost per order at 102 and the lowest productivity at 2.15 orders per labor hour.On the other hand, Hyderabad records a lower cost of 58.25 and higher productivity of 2.95 orders per labor.
 
-***4. Strengthen defect prevention:*** Examine processes associated with damaged items, missing items and label errors. Review packaging, picking and order-verification controls.
+Comparing the operational performance of these facilities could help identify where the facility in Siliguri is facing efficiency gaps and where improvements may be possible.
 
-***5. Monitor operational performance:*** Track CPT breach rates, labor productivity, inventory losses and defect rates together to identify areas requiring attention 
+***3. Address the increase in inventory losses:*** Inventory losses have increased from 2,534 units in January to 4,987 units in June with the highest loss recorded in the last two months of the analysis period.
+
+The increase during May and June deserves further attention.Reviewing inventory loss patterns across facilities could help identify where these losses are increasing and what might be contributing to them.
+
+***4. Strengthen defect prevention:*** Damaged item ~ 489,Missing item ~ 484,Label Error ~ 483 are the three most frequently recorded defect categories.
+
+These categories could be prioritised for further review.Checking packaging, item pickup and label verification processes may help identify areas where the number of defects can be reduced.
+
+***5. Investigate Quality Performance at Siliguri and Guwahati:*** Siliguri and Guwahati have the highest facility level DPMO values at 11,803 and 11,244 respectively.
+
+Defect patterns and quality processes could help understand why these facilities have higher DPMO values and identify areas that may need improvement.
   
 
 
