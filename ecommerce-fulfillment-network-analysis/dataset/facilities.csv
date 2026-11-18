@@ -1,0 +1,13 @@
+facility_id,facility_type,city,region,facility_size,daily_capacity_orders
+101,FC,Kolkata,East,Large,950
+102,FC,Bengaluru,South,Large,1100
+103,FC,Mumbai,West,Large,1050
+104,FC,Delhi NCR,North,Large,1000
+105,FC,Hyderabad,South,Medium,720
+106,FC,Pune,West,Medium,700
+201,DC,Patna,East,Medium,520
+202,DC,Guwahati,Northeast,Small,360
+203,DC,Jaipur,North,Medium,500
+204,DC,Chennai,South,Medium,540
+301,DS,Siliguri,East,Small,240
+302,DS,Bhubaneswar,East,Small,260

@@ -1,0 +1,12 @@
+file,field,definition
+orders.csv,cpt_minutes,Minutes from order placement to processing completion
+orders.csv,cpt_breach_flag,1 when CPT exceeds the simulated 60-minute SLA
+orders.csv,defect_flag,Order-level binary quality defect indicator
+orders.csv,defect_opportunities,Quality opportunity count used as DPMO denominator
+orders.csv,total_fulfillment_cost_inr,Order-level modeled labor + shipping + handling cost
+daily_operations.csv,dpmo,"Facility-day defects divided by opportunities times 1,000,000"
+daily_operations.csv,orders_per_labor_hour,Daily order throughput divided by recorded labor hours
+inventory_snapshots.csv,lost_units,Simulated facility-day inventory loss in units
+cost_records.csv,cost_per_order_inr,Facility-day fulfillment cost per processed order
+quality_defects.csv,dpmo_by_defect_type,"Defect type count divided by its recorded opportunities times 1,000,000"
+all,provenance,"Entire dataset is synthetic, simulated for portfolio use, and is not Purplle company data"
